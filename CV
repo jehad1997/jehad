@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Jehad Almarhoon</title>
+		<style>
+		
+		table {
+			font-family: arial, sans-serif;
+			border-collapse: collapse;
+			width: 100%;
+		}
+
+		td, th {
+			border: 2px solid black;
+			text-align: left;
+			padding: 8px;
+		}
+		td {
+			font-size:16px;
+		}
+
+		tr:nth-child(even) {
+			background-color: #dddddd;
+		}
+		li {
+		padding-leftwards:20px;
+			padding:14px;
+			font-size:22px;
+		}
+        </style>
+    </head>
+    <body>
+        <h1><center>Jehad Almarhoon</center></h1>
+        <p><img src="jehad.jpg" alt="I am an image" width="214.3333333" height="426.6666667"  style="float:right;"></p>
+		<hr>
+		<h1>BIO:</h1>
+		<pre style="font-size:20px;">
+		Name:      Jehad shukri Almarhoon
+		
+		ID:        217210642
+		
+		Major:     Computer Science (Cyber Security)
+		
+		interests: video editing 
+			   robotics
+			   logo designing
+			   algorithims
+			   financial based coding
+			   
+			   
+			   
+		</pre>
+		<hr>
+		<h1>Education:</h1>
+		<table style="width:100%">
+			<tr style="font-size:20px;">
+				<th>institution</th>
+				<th>location</th>
+				<th> category</th>
+				<th> field</th>
+				<th>duration</th>
+			</tr>
+			<tr style="font-size:16px;">
+				<td>Alghad private schools</td>
+				<td>Riyadh,KSA</td>
+				<td>highschool</td>
+				<td>natural sciences</td>
+				<td>3 years</td>
+			</tr>
+			<tr style="font-size:16px;">
+				<td>king Saud bin abdulaziz university for health sciences</td>
+				<td>Riyadh,KSA</td>
+				<td>bachelor</td>
+				<td>madicine</td>
+				<td>1 year</td>	
+			</tr>
+			<tr style="font-size:16px;">
+				<td>king Fahad university for petroleum and minerals</td>
+				<td>Dahran,KSA</td>
+				<td>bachelor</td>
+				<td>chemical engineering</td>
+				<td> 4 months</td>
+			</tr>
+			<tr style="font-size:16px;">
+				<td>Monash university</td>
+				<td>Melbourne,Australia</td>
+				<td>bachelor</td>
+				<td>electrical engineering</td>
+				<td>1 year</td>
+			</tr>
+			<tr style="font-size:16px;">
+				<td>Prince Sultan University</td>
+				<td>Riyadh,KSA</td>
+				<td>bachelor</td>
+				<td>computer science (cyber security)</td>
+				<td>3 years</td>
+			</tr>
+		</table>
+		<hr>
+		<h1>Employment:</h1>
+		<table style="width:100%">
+			<tr style="font-size:20px;">
+				<th>institution</th>
+				<th> job title</th>
+				<th>responsibilities</th>
+				<th>duration</th>
+			</tr>
+			<tr>
+				<td>king Abdullah city for renwable and nuclear energy</td>
+				<td>Teacher</td>
+				<td>teaching top 1% student in KSA of how to create a scientific research</td>
+				<td>3 months</td>
+			</tr>
+			<tr>
+				<td>Monash University</td>
+				<td>Student Councilor</td>
+				<td>guide "international" students and help them through obstacles they may face</td>
+				<td>1 year</td>
+			</tr>
+			<tr>
+				<td>Asaad sae'ed Company</td>
+				<td>Human Recourses</td>
+				<td>taking employees requests to manage and managing their attendance and
+				task satisfactory
+				</td>
+				<td>2 months</td>
+			</tr>
+			<tr>
+				<td>Samba Bank</td>
+				<td>Human Recourses</td>
+				<td>taking employees requests to manage and managing their attendance and
+				task satisfactory
+				</td>
+				<td>3 months</td>>
+			</tr>
+			<tr>
+				<td>THREADS N</td>
+				<td>Trainer</td>
+				<td>training students and employees of contracted companies in Python, 3D printing, Laser cutting, and robotics
+				</td>
+				<td>7 months</td>>
+			</tr>
+		</table>
+		<hr>
+		<h1>Courses:</h1>
+		<ul>
+			<li>web development fundamentals</li>
+			<li>entrepreneurship</li>
+			<li>Cyber Security fundamentals</li>
+			<li>data analysis fundamentals</li>
+			<li>data mining in python</li>
+			<li>IBM cloud services</li>
+		</ul>
+		<hr>
+		<h1>Projects:</h1>
+		<pre style="font-size:22px;">
+		-private institution for soft financial solutions.
+			the project includes:
+			1-designing web page 
+			2-coding a customed software for the customers 
+			
+		-personal stage for skitches and educational videos
+		</pre>
+		<hr>
+		<h1>Certificates:</h1>
+		<ol>
+			<li>3rd in Riyadh and 11th in the Kingdom in Math</li>
+			<li>Scientific research for descovering new formula in numerical analysis</li>
+			<li>146 IQ grade</li>
+			<li>web development fundamentals</li>
+			<li>entrepreneurship</li>
+			<li>Cyber Security fundamentals</li>
+			<li>data analysis fundamentals</li>
+			<li>data mining in python</li>
+			<li>IBM cloud services</li>
+			<li>Mckinsey and Co leadership program</li>
+		</ol>	
+		<hr>
+		<h1>Memberships:</h1>
+		<ul>
+			<li>cyberhub</li>
+			<li>Misk organization</li>
+		</ul>
+		<hr>
+		<footer>
+		<h2>Contact me in:</h2>
+		<a href="https://gmail.com">
+		<img src="gmail.png" alt="jehad1997@gmail.com" style="width:318px;height:159px;">
+		</a>
+		<a href="https://www.youtube.com/channel/UCB9bJ3dzpS3UDCsmf4NWdBA">
+		<img src="youtube.png" alt="jehad1997@gmail.com" style="width:225px;height:225px;">
+		</a>
+		<a href="https://twitter.com/jehad_almarhoon">
+		<img src="twitter1.png" alt="jehad1997@gmail.com" style="width:263px;height:191px;">
+		</footer>
+    </body>
+</html>
